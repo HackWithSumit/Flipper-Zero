@@ -1,4 +1,4 @@
-**<H1>Flipper Zero Beginners Guide</H1>**
+**<H1>Flipper Zero Beginners Guide</H1>** (Turn on GitHub Dark Mode)
 
 **Device Looks**
 
