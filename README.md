@@ -12,6 +12,11 @@
 
 ![Flipper_Zero-removebg-preview](https://github.com/user-attachments/assets/fba9ee44-ce2f-46e1-8bd0-d89a7203ac83)
 
+**Insert Memory Card**
+
+![image-removebg-preview](https://github.com/user-attachments/assets/f89e831b-e56a-4435-8e63-7aa267532107)
+
+
 
 
 
