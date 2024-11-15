@@ -26,6 +26,12 @@
 
 ![image](https://github.com/user-attachments/assets/c6113efb-6020-4008-9913-431291283451)
 
+**Firmware Install Web Tool**
+
+        https://awesome-flipper.com/firmware/unleashed/
+
+
+
 
 
 
