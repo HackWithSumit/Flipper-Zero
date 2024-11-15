@@ -36,6 +36,10 @@
 
         https://momentum-fw.dev/update/
 
+**Universal IRs**
+
+      https://github.com/Lucaslhm/Flipper-IRDB
+
 
 
 
