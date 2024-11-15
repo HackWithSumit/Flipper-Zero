@@ -14,7 +14,9 @@
 
 **Insert Memory Card**
 
-![image-removebg-preview](https://github.com/user-attachments/assets/f89e831b-e56a-4435-8e63-7aa267532107)
+![image](https://github.com/user-attachments/assets/ce94fdad-45c4-4607-b102-41203c1856e1)
+
+
 
 
 
