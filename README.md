@@ -9,6 +9,9 @@
 
 **Official Firmware**
 
+![image](https://github.com/user-attachments/assets/f4c80e90-f0bd-4be2-b9be-f22ecd6c53c1)
+
+
 
 **Xtreme Firmware**
 
