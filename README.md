@@ -34,6 +34,9 @@
         https://flipperunleashed.com/
 
 
+        https://momentum-fw.dev/update/
+
+
 
 
 
