@@ -16,6 +16,11 @@
 
 ![image](https://github.com/user-attachments/assets/ce94fdad-45c4-4607-b102-41203c1856e1)
 
+**Exploring Features**
+
+![image](https://github.com/user-attachments/assets/c7db36fb-b9a7-4651-98a3-6f9fc2e40f15)
+
+
 
 
 
