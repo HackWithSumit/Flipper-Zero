@@ -31,6 +31,9 @@
         https://awesome-flipper.com/firmware/unleashed/
 
 
+        https://flipperunleashed.com/
+
+
 
 
 
