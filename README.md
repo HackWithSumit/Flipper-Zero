@@ -19,6 +19,11 @@
 
 ![image](https://github.com/user-attachments/assets/72682814-de35-4e1f-a617-483936f3f9a4)
 
+**Unlwashed Firmware**
+
+![image](https://github.com/user-attachments/assets/c6113efb-6020-4008-9913-431291283451)
+
+
 
 
 
